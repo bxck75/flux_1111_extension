@@ -1,0 +1,5 @@
+gradio
+requests
+deep-translator
+Pillow
+huggingface-hub

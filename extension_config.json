@@ -1,0 +1,7 @@
+{
+    "name": "FLUX Generator Extension",
+    "version": "1.0.0",
+    "description": "An extension for image generation using FLUX.1-schnell with enhanced prompts.",
+    "entry_point": "scripts/flux_generator.py",
+    "dependencies": "requirements.txt"
+}
